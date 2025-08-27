@@ -1,5 +1,7 @@
 # 计算机科学速成课 Crash Course Computer Science
 
+这个系列我们会学习Bits Bytes 晶体管 逻辑门 操作系统，虚拟现实 机器人
+
 ### 第一集 计算机早期历史 Early Computing
 
 ##### 算盘
@@ -9,6 +11,9 @@
 最早使用“计算机（computer）”一词的文献来自1613年的一本书，作者Richard Braithwait，指的是一种职业，而不是机器。
 
 “I have read the truest computer of times, and the best arithmetician that ever breathed, and he reduceth thy dayes into a short number.”
+
+As early Computer pioneer Charles Baddage said 
+"At each increse of knowledge,as well as on the contrivance(发明) of every new tool,human labour becomes abridged"
 
 ##### 步进计算器
 
@@ -26,7 +31,7 @@
 
 缺点：如果改了大炮或炮弹的设计，就要算一张新表，很耗时且会出错。
 
-##### 差分机和分析机
+##### 差分机和分析机 Thought bubble
 
 Charles Babbage提出了一种新型机械装置叫“差分机”（Difference Engine），一个更复杂的机器，能近似多项式，多项式描述了几个变量之间的关系，多项式可以用于近似对数和三角函数。
 
@@ -48,9 +53,9 @@ Charles Babbage在1823年开始建造差分机，不幸，该项目最终放弃�
 
 这种机器的速度是手动的10倍左右，使得人口普查在短短两年半内完成。
 
-##### IBM
+##### IBM 
 
-企业开始意识到计算机的价值，可以提升劳动力以及数据密集型任务来提升利润。为了满足这一需求，Hollerith成立了制表机器公司，这家公司后来在1924年与其它机械制造商合并，成为了“国际商业机器公司”（The International Business Machines Corporation），简称IBM。
+**企业开始意识到计算机的价值，可以提升劳动力以及数据密集型任务来提升利润**。会计，保险评估和库存管理等行业，为了满足这一需求，Hollerith成立了制表机器公司，这家公司后来在1924年与其它机械制造商合并，成为了“国际商业机器公司”（The International Business Machines Corporation），简称IBM。
 
 到了1900年代中叶，世界人口的爆炸和全球贸易的兴起。要求更快更灵活的工具来处理数据，为电子计算机的发展奠定基础。
 

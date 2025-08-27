@@ -2,13 +2,21 @@
 
 ### 第二集 电子计算机 Electronic Computing
 
+![](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826224543716.png)
+
+![image-20250826224504473](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826224504473.png)
+
+![image-20250826224543716](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826224543716.png)
+
+![image-20250826224715496](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826224715496.png)
+
 #### 机电计算机：继电器
 
 最大的机电计算机之一是哈佛马克一号（Harvard Mark Ⅰ），IBM在1944完成建造，给二战同盟国建造的。它有76万5千个组件，300万个连接点和500英里长的导线，为了保持内部机械装置同步，它有一个50英尺的传动轴，由一个5马力的电机驱动。
 
-这台机器最早的用途之一是给“曼哈顿计划”跑模拟，这台机器的大脑是“继电器”。
+这台机器最早的用途之一是给“曼哈顿计划”跑模拟，这台机器的大脑是“继电器”。relays
 
-继电器：用电控制的机械开关。继电器里有根“控制线路”，控制电路是开还是关，“控制线路”连着一个线圈，当电流流过线圈，线圈产生电磁场，吸引金属臂，从而闭合电路，你可以把继电器想成水龙头。
+继电器：electrically-controlled mechanical switches用电控制的机械开关。继电器里有根“控制线路”，控制电路是开还是关，“控制线路”连着一个线圈，当电流流过线圈，线圈产生电磁场，吸引金属臂，从而闭合电路，你可以把继电器想成水龙头。
 
 ![image-20200207223659379](./image/image-20200207223659379.png)
 
@@ -34,6 +42,10 @@
 
 电流只能单向流动的电子部件叫做“二极管”（diode），我们需要一个能开关电流的东西，Luckily，在1906年，美国发明家李·德富雷斯特在“弗莱明”设计的两个电极之间加入了第三个“控制”电极，向“控制”电极施加正电荷，它会允许电子流动，但如果施加负电荷，它会阻止电子流动。因此通过控制线路可以断开或闭合电路，和继电器的功能一样。Importantly，真空管内没有会动的组件，意味着更少的磨损，more importantly，每秒可以开闭数千次。
 
+![image-20250826230428810](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826230428810.png)
+
+![   ](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250826230451559.png)
+
 真空管应用于计算机中，这标志着计算机从机电转向电子。
 
 ##### 巨人1号
@@ -58,6 +70,14 @@
 
 晶体管每秒可以开关10000次，比起真空管，晶体管是固态的，并可以远小于继电器或真空管，用于制造更小更便宜的计算机，例如1957年发布的IBM 608，这是第一个完全用晶体管，而且消费者可以买到的计算机，它有3000个晶体管，每秒执行4500次加法，每秒能执行80次左右的乘除法。
 
+晶体管小于 50nm 一张纸的厚度大概是10wnm
+
 ##### 硅谷
 
 很多晶体管和半导体的开发在“圣克拉拉谷”（Santa Clara Valley），位于旧金山（San Francisco）和圣荷西（San Jose）之间，而生产半导体最常见的材料是“硅”（silicon），所以这个地区被称为“硅谷”（Silicon Valley）。William Shockley搬到硅谷，创立了“肖克利半导体”（Shockley Semiconductor），里面的员工后来成立了“仙童半导体”（Fairchild Semiconductor），这里的员工后来创立了英特尔（Intel）——当今世界上最大的计算机芯片制造商。
+
+
+
+从 relay 到 vacuum tubes 到 transistors 继电器 真空管 晶体管
+
+如何用晶体管做计算
