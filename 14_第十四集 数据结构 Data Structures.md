@@ -37,7 +37,7 @@
      
      - `j[5]` → 地址 1000 + 5偏移 → 值 4
      
-       ![image-20250914231425230](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914231425230.png)
+       ![image-20250914231425230](.\image\image-20250914231425230.png)
      
    - **优势**：
      - **O(1)随机访问**：直接通过下标获取元素
@@ -63,7 +63,7 @@
      
      - 以 **null字符（\0）** 结尾（二进制0，非字符'0'）
      - null字符告诉字符串函数**何时停止**
-     - ![image-20250914231848259](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914231848259.png)
+     - ![image-20250914231848259](.\image\image-20250914231848259.png)
    - **重要函数**：
      - 拼接（concatenation）：`strcat("Hello", " World") → "Hello World"`
      - 搜索、替换、大小写转换等
@@ -84,7 +84,7 @@
    - **访问方式**：双下标 `matrix[row][col]`
      - `matrix[2][1] = 8`（第3行第2列）
      
-       ![image-20250914232107542](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914232107542.png)
+       ![image-20250914232107542](.\image\image-20250914232107542.png)
      
    - **内存布局**：按行连续存储
 
@@ -116,7 +116,7 @@
      
      - 可组成数组：`BankAccount accounts[100];`
      
-       ![image-20250914232245657](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914232245657.png)
+       ![image-20250914232245657](.\image\image-20250914232245657.png)
      
    - **局限**：
      - 大小固定
@@ -147,7 +147,7 @@
      
      - **删除**：跳过目标节点
      
-       ![image-20250914232509355](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914232509355.png)
+       ![image-20250914232509355](.\image\image-20250914232509355.png)
      
    - **优势**：
      - **动态大小**：随时添加/删除节点

@@ -105,7 +105,7 @@
 
    - 卡片堆叠 → 形成完整程序
 
-     ![image-20250914182011449](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914182011449.png)
+     ![image-20250914182011449](.\image\image-20250914182011449.png)
 
 #### 2. **操作流程**
    ```mermaid
@@ -138,9 +138,9 @@
 >
 > 
 >
-> ![image-20250914182538356](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914182538356.png)
+> ![image-20250914182538356](.\image\image-20250914182538356.png)
 >
-> ![image-20250914182856207](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914182856207.png)
+> ![image-20250914182856207](.\image\image-20250914182856207.png)
 
 ---
 

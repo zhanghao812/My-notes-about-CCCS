@@ -22,7 +22,7 @@
 
 程序员不用管寄存器或内存位置，编译器会完成这些细节，程序员只需要创建代表**内存地址的抽象——变量（variables）**。
 
-![image-20250914201504939](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914201504939.png)
+![image-20250914201504939](.\image\image-20250914201504939.png)
 
 ##### FORTRAN
 

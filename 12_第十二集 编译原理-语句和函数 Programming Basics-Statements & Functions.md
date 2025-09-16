@@ -37,7 +37,7 @@
      
      - 无效组合 → 语法错误（如 `"I want raining"`）
      
-       ![image-20250914203046306](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914203046306.png)
+       ![image-20250914203046306](.\image\image-20250914203046306.png)
      
        英语有语法，所有编程语言也都有语法
      
@@ -95,7 +95,7 @@
 
 
 
-​	![image-20250914220110789](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914220110789.png)
+​	![image-20250914220110789](.\image\image-20250914220110789.png)
 
 * if 的具体 语法略有不同，但主体结构一样，if语句根据条件执行一次，如果希望根据条件执行多次，需要条件循环
 
@@ -111,7 +111,7 @@
      while relays < 4:
          relays = relays + 1  # 每次+1
      ```
-     ![image-20250914220530976](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914220530976.png)
+     ![image-20250914220530976](.\image\image-20250914220530976.png)
      
      **执行过程**：
      
@@ -133,7 +133,7 @@
      
      - **实例**：`relays=2, level=3` → `2×2×2 = 8`
      
-       ![image-20250914220816221](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914220816221.png)
+       ![image-20250914220816221](.\image\image-20250914220816221.png)
 
 > ✅ **关键区别**：  
 > While 循环 = **"做直到条件满足"**  
@@ -147,7 +147,7 @@
 
 如果代码发生问题，要补漏洞时，要把每一个复制粘贴过的地方都找出来改，而且会让代码更难懂
 
-![image-20250914221739132](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914221739132.png)
+![image-20250914221739132](.\image\image-20250914221739132.png)
 
 #### 1. **函数定义与调用**
    - **本质**：可重用的代码封装单元

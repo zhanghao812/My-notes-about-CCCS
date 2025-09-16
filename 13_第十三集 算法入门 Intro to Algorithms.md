@@ -29,7 +29,7 @@
 #### 2. **算法复杂度（Big O Notation）**
    - **定义**：描述算法**随输入规模增长**的性能变化 ( 算法的 输入大小和运行步骤之间的关系）表达运行速度的量级
 
-     ![image-20250914224803475](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914224803475.png)
+     ![image-20250914224803475](.\image\image-20250914224803475.png)
    - **为什么重要**：
      - 8个元素 vs 80个元素：选择排序时间从64→6400（100倍增长！）
      - 谷歌需处理**亿级数据**，算法效率决定可行性
@@ -60,7 +60,7 @@
      ...直到完全排序
      ```
    - **伪代码**：
-   - ![image-20250914224645166](D:\Study\02_Crash_Course_Computer_Science\My-notes-about-CCCS\image\image-20250914224645166.png)
+   - ![image-20250914224645166](.\image\image-20250914224645166.png)
      
      ```python
      for i in range(0, n-1):
