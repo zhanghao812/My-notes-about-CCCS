@@ -17,7 +17,7 @@
 > 从房间大小的机器到掌中超级计算机，  
 > 一切始于一个微小的硅片！"*
 >
-> ![image-20250916154813654](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916154813654.png)
+> ![image-20250916154813654](.\image\image-20250916154813654.png)
 
 ---
 
@@ -25,7 +25,7 @@
 #### 1. **基本概念**
    - **定义**：将多个电子元件（晶体管、电阻、电容等）集成到单一半导体材料（通常是硅）上的微型电路
 
-     ![image-20250916143045317](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916143045317.png)
+     ![image-20250916143045317](.\image\image-20250916143045317.png)
 
      解决方法： 引入一层新抽象，封装复杂性
 
@@ -39,11 +39,11 @@
      - ✅ **减少连线**：消除"纠缠的电线"问题
      - ✅ **三赢局面**：更小、更便宜、更可靠
      
-     ![image-20250916144111992](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916144111992.png)
+     ![image-20250916144111992](.\image\image-20250916144111992.png)
      
-     ![image-20250916144224439](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916144224439.png)
+     ![image-20250916144224439](.\image\image-20250916144224439.png)
      
-     ![image-20250916150055785](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916150055785.png)
+     ![image-20250916150055785](.\image\image-20250916150055785.png)
      
      # 双极型晶体管的制作顺序
      

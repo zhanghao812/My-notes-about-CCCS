@@ -8,17 +8,17 @@
 
 **把大项目分解成小函数可以让多人同时工作，不用关心整个项目，关心自己的函数就好**，但是把代码打包成函数依然不够，**解决办法是把函数打包成层级，把相关代码都放在一起，打包成对象（object）**。对象可以包含其他对象，函数和变量，把函数打包成对象的思想叫“**面向对象编程”（Object Oriented Programming）**。这种思想通过封装组件，隐藏复杂度。（之前把 晶体管 打包成了 逻辑门 ）a  new level of abstraction
 
-![image-20250916134252906](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916134252906.png)
+![image-20250916134252906](.\image\image-20250916134252906.png)
 
-![image-20250916134435206](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916134435206.png)
+![image-20250916134435206](.\image\image-20250916134435206.png)
 
 对象可以包其他对象，函数和变量
 
-![image-20250916134512888](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916134512888.png)
+![image-20250916134512888](.\image\image-20250916134512888.png)
 
 需要从最外面的对象 往里面找
 
-![image-20250916134607058](C:\Users\7726\Desktop\Inbox\Crash\note-crash\image\image-20250916134607058.png)
+![image-20250916134607058](.\image\image-20250916134607058.png)
 
 把函数打包成对象的思想 叫 面向都西昂编程 
 
