@@ -2,6 +2,8 @@
 
 ### 第十六集 软件工程 Software Engineering
 
+![image-20250920183113651](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250920183113651.png)
+
 **为了写大型程序，程序员用各种工具和方法**，所有这些形成了“软件工程”（software engineering）学科，这个词由工程师Margaret Hamilton创造，她帮助NASA在阿波罗计划中避免了严重问题，她曾说过：“It's kind of like a root canal: you waited till the end, but there are things you could have done beforehand. It's like preventative healthcare, but it's preventative software.”。
 
 #### 对象

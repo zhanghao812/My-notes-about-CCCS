@@ -2,6 +2,8 @@
 
 ## 第三十三集 加密（Cryptography）
 
+![image-20250921220214782](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250921220214782.png)
+
 ---
 
 ### **核心目标：理解密码学如何保护数字世界的安全**
