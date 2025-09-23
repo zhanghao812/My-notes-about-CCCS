@@ -2,6 +2,8 @@
 
 ## 第三十七集 机器人（Robots）
 
+![image-20250923231159801](https://gitee.com/zhang-hao688/PicGO/raw/master/images/image-20250923231159801.png)
+
 ---
 
 ### **核心目标：理解机器人技术的现状与挑战**
